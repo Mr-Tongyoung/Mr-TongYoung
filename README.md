@@ -32,9 +32,12 @@
 ## 💼 프로젝트 경험
 
 ### 🏃‍♂️ [러닝 SNS 서비스](https://github.com/Mr-Tongyoung/SNS_demo) (개인 프로젝트)
-- Kafka + Redis 기반 뉴스피드 캐시 아키텍처 설계  
-- 게시글 FanOut 구조 → Kafka 메시지 큐 기반 비동기 처리 구조 전환 (53000명 대상 병목 해소)  
+- Kafka + Redis 기반 뉴스피드 캐시 아키텍처 설계
+- 게시글 FanOut 구조 → Kafka 메시지 큐 기반 비동기 처리 구조 전환 (유저 4만명 상황에서 P95 100ms유지)  
 - nGrinder 부하 테스트 및 Grafana로 TPS, P99 지연시간 시각화
+- fetch join 통한 N+1쿼리문제 분석
+- JWT vs Session의 차이 분석하여 내 아키텍쳐에 맞는 로그인 구현
+- Kafka CDC를 통한 이벤트 감지형 아키텍쳐 설계
 
 ### 🍻 술게임 백과사전 (팀 프로젝트)
 - AWS S3 기반 이미지 업로드 구현
@@ -45,7 +48,7 @@
 ## 📌 현재 관심 분야
 
 - Kafka 기반 MSA 이벤트 설계
-- PostgreSQL 성능 분석 (인덱싱, EXPLAIN PLAN 등)
+- PostgreSQL 성능 분석 (인덱싱, EXPLAIN ANALYZE 등)
 - 클라우드 네이티브 아키텍처 (Kubernetes, Harbor, ArgoCD 등)
 - ELK 스택 로그 분석 및 실시간 시각화
 
@@ -62,9 +65,17 @@
 
 ---
 
+## 취미
+
 ### 🐦 [탐조 커뮤니티 운영](https://www.daangn.com/kr/group/%EB%B6%84%EB%8B%B9-%ED%83%90%EC%A1%B0-%EB%AA%A8%EC%9E%84-2ynufa261ick/?in=%EA%B5%AC%EB%AF%B8%EB%8F%99-1355)
-- 당근마켓 기반 자연관찰 활동 기획 및 커뮤니티 관리
-- 환경보호 인식 향상 활동 병행
+![IMG_6849](https://github.com/user-attachments/assets/479b6f54-2b95-49d1-89ed-4ee46498a018)
+
+
+### ⚽ 축구
+
+### 🎮 포켓몬
+![image](https://github.com/user-attachments/assets/2e80cb99-2587-4322-86d7-63ccc62dddbc)
+
 
 ---
 
