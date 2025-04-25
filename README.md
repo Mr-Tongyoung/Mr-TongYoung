@@ -71,6 +71,8 @@
 
 ### 🐦 [탐조 커뮤니티 운영](https://www.daangn.com/kr/group/%EB%B6%84%EB%8B%B9-%ED%83%90%EC%A1%B0-%EB%AA%A8%EC%9E%84-2ynufa261ick/?in=%EA%B5%AC%EB%AF%B8%EB%8F%99-1355)
 ![IMG_6849](https://github.com/user-attachments/assets/479b6f54-2b95-49d1-89ed-4ee46498a018)
+![DSC00552](https://github.com/user-attachments/assets/8489a28a-3f75-4d00-b6c6-ec404735de08)
+
 
 
 ### ⚽ 축구
