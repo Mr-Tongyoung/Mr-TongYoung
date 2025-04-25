@@ -1,6 +1,5 @@
+# 👨‍💻 김준호 | 백엔드 개발자 | 대용량 트래픽 처리에 진심입니다!
 ![visitor badge](https://komarev.com/ghpvc/?username=Mr-TongYoung&color=blue)
-
-# 👨‍💻 김준호 | 백엔드 개발자 | 대용량 트래픽 처리에 진심입니다
 
 안녕하세요! 저는 **Java, Spring 기반의 백엔드 시스템 설계 및 성능 최적화**에 관심이 많은 개발자입니다.  
 **대규모 트래픽 환경에서도 안정적인 서비스 제공**을 목표로, Kafka 기반 메시징 처리, Redis 캐싱, PostgreSQL 인덱싱 등  
