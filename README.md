@@ -1,7 +1,9 @@
 # 👨‍💻 김준호 | 백엔드 개발자 | 대용량 트래픽 처리에 진심입니다!
 ![visitor badge](https://komarev.com/ghpvc/?username=Mr-TongYoung&color=blue)
 
-안녕하세요! 저는 **시스템 설계 및 성능 최적화**에 관심이 많은 개발자입니다.  
+## Final Vocabulary : 질문
+
+저는 **시스템 설계 및 성능 최적화**에 관심이 많은 개발자입니다.  
 **대규모 트래픽 환경**에서도 안정적인 서비스 제공을 목표로, Kafka 메시지큐 기반 비동기 처리, Redis 캐싱 TTL 정책, PostgreSQL 인덱싱 등  
 실제 트래픽 상황을 고려한 아키텍처 설계와 **성능 테스트**에 집중하고 있습니다.
 
