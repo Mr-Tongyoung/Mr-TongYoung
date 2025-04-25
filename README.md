@@ -2,8 +2,8 @@
 ![visitor badge](https://komarev.com/ghpvc/?username=Mr-TongYoung&color=blue)
 
 안녕하세요! 저는 **시스템 설계 및 성능 최적화**에 관심이 많은 개발자입니다.  
-**대규모 트래픽 환경에서도 안정적인 서비스 제공**을 목표로, Kafka 기반 메시징 처리, Redis 캐싱, PostgreSQL 인덱싱 등  
-**실제 트래픽 상황을 고려한 아키텍처 설계와 성능 테스트**에 집중하고 있습니다.
+**대규모 트래픽 환경**에서도 안정적인 서비스 제공을 목표로, Kafka 메시지큐 기반 비동기 처리, Redis 캐싱 TTL 정책, PostgreSQL 인덱싱 등  
+실제 트래픽 상황을 고려한 아키텍처 설계와 **성능 테스트**에 집중하고 있습니다.
 
 > "빠르고 확장 가능하며 관측 가능한 시스템을 만드는 것이 저의 목표입니다." 🚀
 
@@ -40,10 +40,6 @@
 - AWS S3 기반 이미지 업로드 구현
 - Spring 생태계에 대한 기초 학습 기반 마련
 
-### 🐦 [탐조 커뮤니티 운영](https://www.daangn.com/kr/group/%EB%B6%84%EB%8B%B9-%ED%83%90%EC%A1%B0-%EB%AA%A8%EC%9E%84-2ynufa261ick/?in=%EA%B5%AC%EB%AF%B8%EB%8F%99-1355)
-- 당근마켓 기반 자연관찰 활동 기획 및 커뮤니티 관리
-- 환경보호 인식 향상 활동 병행
-
 ---
 
 ## 📌 현재 관심 분야
@@ -63,6 +59,12 @@
     <img src="https://mazandi.herokuapp.com/api?handle=kokm333&theme=warm"/>
   </a>
 </p>
+
+---
+
+### 🐦 [탐조 커뮤니티 운영](https://www.daangn.com/kr/group/%EB%B6%84%EB%8B%B9-%ED%83%90%EC%A1%B0-%EB%AA%A8%EC%9E%84-2ynufa261ick/?in=%EA%B5%AC%EB%AF%B8%EB%8F%99-1355)
+- 당근마켓 기반 자연관찰 활동 기획 및 커뮤니티 관리
+- 환경보호 인식 향상 활동 병행
 
 ---
 
